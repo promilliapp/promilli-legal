@@ -16,7 +16,7 @@ You must be at least 18 years old to use this App.
 
 ## 2. Alcohol and Responsibility Disclaimer
 
-This app is intended for entertainment and estimation purposes only. All promille (BAC) calculations are approximate and must **not** be used to determine whether you are fit to drive, operate machinery, or make decisions under the influence of alcohol.
+This app is intended for entertainment and estimation purposes only. All BAC calculations are approximate and must **not** be used to determine whether you are fit to drive, operate machinery, or make decisions under the influence of alcohol.
 
 We accept **no responsibility** for any consequences resulting from reliance on the App’s outputs. Use of the App is **at your own risk**.
 
@@ -40,7 +40,7 @@ You are solely responsible for content you post. Do not upload anything unlawful
 
 We reserve the right to suspend or terminate any account that violates these Terms or is used in a harmful or abusive manner.
 
-You may request deletion of your data at any time.
+You may delete your account and hereby data at any time.
 
 ---
 
